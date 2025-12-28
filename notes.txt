@@ -1,2 +1,8 @@
 puts → prints text WITH a new line at the end 
 print → prints text WITHOUT adding a new line
+
+#{character_name} - interpolation so no need to put .to_s when printing string with int
+
+everything is an object
+
+get user input = gets.chomp  = chomp = remove the new line at the end
